@@ -1,1 +1,1 @@
-# CSCI381-MachineLearning
+# CSCI 381 - Machine Learning
