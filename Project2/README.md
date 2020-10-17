@@ -26,4 +26,5 @@ plots) for each dataset.
 from this observation?
 
 ### Report 
-#### Mathematical Formulation of Algorithm with Initialization Mechanisms
+#### 1. Mathematical Formulation of Algorithm with Initialization Mechanisms
+
