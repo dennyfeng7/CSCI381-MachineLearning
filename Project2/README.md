@@ -13,8 +13,6 @@ and linear regression routines.
 * Breast cancer, 2 classes, 30 features, 569 data points
 * Iris, 3 classes, 4 features, 150 data points
 
-### Report
-
 1. Solution: Provide the mathematical formulation of your algorithm, with
 different initialization mechanisms. The description should be independent of
 the programming language. (So this is not an explanation of your code)
@@ -26,3 +24,6 @@ for both datastes and initialization methods. Once graph (with two
 plots) for each dataset.
 * Discussion: Discuss the result: what did you observe? what do you learn
 from this observation?
+
+### Report 
+
