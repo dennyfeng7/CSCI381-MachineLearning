@@ -15,8 +15,8 @@ and linear regression routines.
 
 1. Solution: Provide the mathematical formulation of your algorithm, with
 different initialization mechanisms. The description should be independent of
-the programming language. (So this is not an explanation of your code)
-2. Training and validation: (20 pts)
+the programming language.
+2. Training and validation:
 * Experiment: Description of the setup of the experiment for both datasets,
 and evaluation of Ein(g) and Eout(g).
 * Result: Show the performance plots using Eout(g) for t (number of iterations)
