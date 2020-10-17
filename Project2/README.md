@@ -12,3 +12,17 @@ and linear regression routines.
 ### Train and validate your implementation with 5 different samples (5 different Ds inthe learning flow) for each of following datasets from sklearn:
 * Breast cancer, 2 classes, 30 features, 569 data points
 * Iris, 3 classes, 4 features, 150 data points
+
+### Report
+
+1. Solution: Provide the mathematical formulation of your algorithm, with
+different initialization mechanisms. The description should be independent of
+the programming language. (So this is not an explanation of your code)
+2. Training and validation: (20 pts)
+* Experiment: Description of the setup of the experiment for both datasets,
+and evaluation of Ein(g) and Eout(g).
+* Result: Show the performance plots using Eout(g) for t (number of iterations)
+for both datastes and initialization methods. Once graph (with two
+plots) for each dataset.
+* Discussion: Discuss the result: what did you observe? what do you learn
+from this observation?
